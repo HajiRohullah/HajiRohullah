@@ -26,4 +26,4 @@ Here are some ideas to get you started:
     </a>
 
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=HajiRohullah&layout=compact&theme=onedark&hide_border=true")](https://github-readme-stats.vercel.app/api/top-langs/?username=HajiRohullah&theme=onedark&hide_border=true")
+<!-- [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=HajiRohullah&layout=compact&theme=onedark&hide_border=true")](https://github-readme-stats.vercel.app/api/top-langs/?username=HajiRohullah&theme=onedark&hide_border=true") -->
